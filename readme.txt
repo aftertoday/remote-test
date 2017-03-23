@@ -7,3 +7,4 @@ Git is free software.这行被修改了
 添加一行
 
 add to stage
+Git tracks changes
