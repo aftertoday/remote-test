@@ -9,4 +9,21 @@ Git is free software.这行被修改了
 add to stage
 Git tracks changes
 
+
 learn-2 edit
+
+20170324 master add
+
+dev add a line 20170323 
+
+dev add a line 20170323  --
+
+
+fast forward merge
+
+ff merge
+
+issue-1 line
+
+stash dev  ----
+
