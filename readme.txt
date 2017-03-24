@@ -17,3 +17,5 @@ dev add a line 20170323
 
 dev add a line 20170323  --
 
+
+fast forward merge
