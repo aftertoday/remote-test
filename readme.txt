@@ -27,3 +27,5 @@ issue-1 line
 
 stash dev  ----
 
+dev commit 1
+
